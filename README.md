@@ -1,15 +1,11 @@
 # **Python Dolphyn**
 
 - Toto je troll scripts
- <br>
- <br>
   
 ### Install
 ### _Windows_
 - Nainstalujte [python](https://www.python.org/)
 - Otevřete main.py
- <br>
- <br>
 
 # Commands
 ```
