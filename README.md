@@ -2,7 +2,7 @@
 
 - Toto je troll scripts
   
-### Install
+# Install
 ### _Windows_
 - Nainstalujte [python](https://www.python.org/)
 - Otevřete main.py
